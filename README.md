@@ -1,4 +1,4 @@
-# Tinic
+# tinic
 
 You want to share something, but you also want to make money, so how?!
 
